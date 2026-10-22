@@ -428,10 +428,6 @@ h2 .pill { font-size: .9rem; }
 
 /* ---------- Support / footer ---------- */
 .support__cta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; }
-.contact { font-style: normal; background: rgba(255, 255, 255, .05); border: 1px solid rgba(255, 255, 255, .12); border-radius: 12px; padding: 28px; }
-.contact strong { color: #fff; }
-.contact a { color: var(--cyan); }
-.contact__who { padding-bottom: 14px; border-bottom: 1px solid rgba(255, 255, 255, .12); }
 .footer { background: #071d34; color: #8aa3bb; font-size: .85rem; padding: 20px 0; }
 .footer__inner { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .footer p { margin: 0; }
